@@ -10,6 +10,4 @@ just for fun - learning xml
 - Dashboard
 - Stats & ML
 
-## My Portfolio
 
-Please see my Google Data Studio dashboard [here](https://www.google.com)
