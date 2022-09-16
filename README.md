@@ -8,6 +8,5 @@
 - R Programming
 - Python Programming 
 - Dashboard
-- Stats & ML
 
 
